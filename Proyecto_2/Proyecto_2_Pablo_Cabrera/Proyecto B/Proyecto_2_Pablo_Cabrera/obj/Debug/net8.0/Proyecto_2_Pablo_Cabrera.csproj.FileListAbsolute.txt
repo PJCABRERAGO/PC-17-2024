@@ -1,0 +1,14 @@
+C:\Users\pjcg1\source\repos\Proyecto_2_Pablo_Cabrera\bin\Debug\net8.0\Proyecto_2_Pablo_Cabrera.exe
+C:\Users\pjcg1\source\repos\Proyecto_2_Pablo_Cabrera\bin\Debug\net8.0\Proyecto_2_Pablo_Cabrera.deps.json
+C:\Users\pjcg1\source\repos\Proyecto_2_Pablo_Cabrera\bin\Debug\net8.0\Proyecto_2_Pablo_Cabrera.runtimeconfig.json
+C:\Users\pjcg1\source\repos\Proyecto_2_Pablo_Cabrera\bin\Debug\net8.0\Proyecto_2_Pablo_Cabrera.dll
+C:\Users\pjcg1\source\repos\Proyecto_2_Pablo_Cabrera\bin\Debug\net8.0\Proyecto_2_Pablo_Cabrera.pdb
+C:\Users\pjcg1\source\repos\Proyecto_2_Pablo_Cabrera\obj\Debug\net8.0\Proyecto_2_Pablo_Cabrera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pjcg1\source\repos\Proyecto_2_Pablo_Cabrera\obj\Debug\net8.0\Proyecto_2_Pablo_Cabrera.AssemblyInfoInputs.cache
+C:\Users\pjcg1\source\repos\Proyecto_2_Pablo_Cabrera\obj\Debug\net8.0\Proyecto_2_Pablo_Cabrera.AssemblyInfo.cs
+C:\Users\pjcg1\source\repos\Proyecto_2_Pablo_Cabrera\obj\Debug\net8.0\Proyecto_2_Pablo_Cabrera.csproj.CoreCompileInputs.cache
+C:\Users\pjcg1\source\repos\Proyecto_2_Pablo_Cabrera\obj\Debug\net8.0\Proyecto_2_Pablo_Cabrera.dll
+C:\Users\pjcg1\source\repos\Proyecto_2_Pablo_Cabrera\obj\Debug\net8.0\refint\Proyecto_2_Pablo_Cabrera.dll
+C:\Users\pjcg1\source\repos\Proyecto_2_Pablo_Cabrera\obj\Debug\net8.0\Proyecto_2_Pablo_Cabrera.pdb
+C:\Users\pjcg1\source\repos\Proyecto_2_Pablo_Cabrera\obj\Debug\net8.0\Proyecto_2_Pablo_Cabrera.genruntimeconfig.cache
+C:\Users\pjcg1\source\repos\Proyecto_2_Pablo_Cabrera\obj\Debug\net8.0\ref\Proyecto_2_Pablo_Cabrera.dll
